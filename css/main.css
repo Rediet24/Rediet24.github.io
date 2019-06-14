@@ -1,7 +1,7 @@
 body {
     background-image: url("../IMG_3618.JPG");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     margin:60px auto;
     width: 70%;
 }
