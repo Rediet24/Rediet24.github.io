@@ -1,5 +1,7 @@
 body {
-    background-image: "../IMG_3618.JPG";
+    background-image: url("../IMG_3618.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
