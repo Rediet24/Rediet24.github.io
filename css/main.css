@@ -6,7 +6,6 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    background: black;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -18,7 +17,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color:black;
 }
 a:hover {
     text-decoration: underline;
