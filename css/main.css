@@ -13,7 +13,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 50px;
+    margin-right: 70px;
 }
 a {
     text-decoration: none;
@@ -23,7 +23,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     left: 0;
     line-height: 200px;
@@ -36,11 +36,11 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: red;
+    color: black;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    border-top: 3px solid #d5d5d5;
+    font-size: 1em;
 }
 
 ul.posts { 
